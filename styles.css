@@ -1,0 +1,17 @@
+input {
+    border: 2px solid;
+    padding: 5px;
+    width: 50%;
+}
+
+#name {
+    border-color: red;
+}
+
+#age {
+    border-color: blue;
+}
+
+#email {
+    border-color: green;
+}
